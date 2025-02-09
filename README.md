@@ -1,0 +1,1 @@
+This project is from The Odin Project. All the the code that is in this project so far I currently already know. I'm just refreshing myself on all the basics and to complete the odin project course. 
